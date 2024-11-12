@@ -1,6 +1,6 @@
 [<img src="figures/readme_header.png" width=600>](https://www.biorxiv.org/content/10.1101/2023.03.22.533826v2)
 
-This repository contains all code associated with Cuthbert et al. 2023. The paper is currently in review, and is available as a preprint on [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.22.533826v2).
+This repository contains all code associated with Cuthbert et al. 2024. The paper has now been [published in the Journal of Vision](https://jov.arvojournals.org/article.aspx?articleid=2800616).
 
 Specifically, the code in this repo can:
 - Download  and process [raw data](https://osf.io/kjpnk/) from [Adam, Vogel, and Awh (2017)](https://www.sciencedirect.com/science/article/abs/pii/S0010028517300634)
